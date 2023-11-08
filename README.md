@@ -19,4 +19,4 @@ This simple calculator program allows users to perform basic arithmetic operatio
 1. Clone the repository to your local machine using Git:
 
    ```shell
-   $ git clone https://github.com/yourusername/calculator.git
+   $ git clone https://github.com/KABIR0136/calculator.git
